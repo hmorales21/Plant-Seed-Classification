@@ -10,9 +10,10 @@ Dataset is located at: https://vision.eng.au.dk/?download=/data/WeedData/Nonsegm
 ### Project 10
 1. Assets
 2. Datasets
-3. Models
-4. Deployment
+3. Notebooks
+4. Models
+5. Deployment
 
 #### Horacio Morales González
-####S
+#### 
 
