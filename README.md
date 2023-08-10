@@ -1,7 +1,7 @@
 # Plant Seedling Classification
 ## Image Classification
 
-## Descripction
+## Description
 Build an image classifier which will classify the images of plant seedlings.
 
 <img src="./assets/seeds.png"> </img>
